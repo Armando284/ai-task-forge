@@ -18,7 +18,7 @@ importers:
         specifier: 5.9.2
         version: 5.9.2
 
-  apps/backend:
+  apps/api:
     dependencies:
       fastify:
         specifier: ^5.8.5

@@ -4,3 +4,9 @@ dist
 .gitignore
 Dockerfile
 npm-debug.log
+apps
+packages
+infra
+*.md
+*.log
+*.env
